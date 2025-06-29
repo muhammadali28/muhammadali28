@@ -15,21 +15,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Muhammad Ali</h1>
-<h3 align="center">A passionate Software & DevOps Engineer from Pakistan</h3>
+<h3 align="center">A passionate Software, Infrastructure & DevOps Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadali28&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadali28" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadali28" alt="muhammadali28" /></a> </p>
 
-- 🔭 I’m currently working on **React Native and DevOps**
+🔭 Currently working on: Scalable Azure cloud architectures for 400+ retail locations nationwide
 
-- 🌱 I’m currently learning **DevOps Tools**
+🌱 Currently mastering: Advanced Kubernetes orchestration and multi-cloud strategies
 
-- 👨‍💻 All of my projects are available at [http://muhammadaliportfolio.surge.sh/](http://muhammadaliportfolio.surge.sh/)
+💼 Professional focus: Infrastructure as Code, CI/CD automation, and cloud security
 
-- 💬 Ask me about **DevOps, Softwares, Tech**
+🎯 Recent achievement: Reduced operational costs by 20% while improving system availability
 
-- 📫 How to reach me **muhammadalidev20@gmail.com**
+📫 Reach me at: muhammadalidev20@gmail.com
+
+🌐 Portfolio: muhammadali.tech
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
