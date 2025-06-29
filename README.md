@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Muhammad Ali</h1>
-<h3 align="center">A passionate Software, Infrastructure & DevOps Engineer</h3>
+
+🚀 About Me
+
+I'm a passionate Infrastructure & DevOps Engineer currently working at EG-OTM in Blackburn, Lancashire, UK. I specialize in architecting scalable Azure cloud solutions and automating infrastructure deployments that drive business efficiency.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadali28&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadali28" /> </p>
 
@@ -31,7 +34,20 @@ Here are some ideas to get you started:
 
 📫 Reach me at: muhammadalidev20@gmail.com
 
-🌐 Portfolio: muhammadali.tech
+🌐 Portfolio: [http://muhammadali.tech/](https://muhammadali.tech/)
+
+💼 Professional Experience
+
+Infrastructure Engineer @ EG-OTM (Jan 2025 - Present)
+
+Architecting Azure solutions for major retail brands (Greggs, Starbucks, Subway)
+Implementing end-to-end CI/CD pipelines with 70% reduction in manual workflows
+Developing PowerShell automation reducing manual intervention by 70%
+
+DevOps Engineer @ Impulz Technologies (Sep 2023 - Sep 2024)
+
+Accelerated release cycles by 70% through automated CI/CD pipelines
+Managed cloud migrations for 5 enterprise clients across Azure and AWS
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
